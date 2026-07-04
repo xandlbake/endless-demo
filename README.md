@@ -1,2 +1,3 @@
 # endless-demo
-amateur procedural backrooms game made in godot engine by 2 faggots
+
+it has come to my attention that furry roleplay is the new meta
